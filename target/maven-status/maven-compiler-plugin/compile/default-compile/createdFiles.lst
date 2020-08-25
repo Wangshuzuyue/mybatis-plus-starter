@@ -1,0 +1,6 @@
+com/yunxin/mp/entity/PageReq.class
+com/yunxin/mp/config/MPAutoConfiguration.class
+com/yunxin/mp/entity/PageInfo.class
+com/yunxin/mp/util/SnowKey.class
+com/yunxin/mp/entity/OffsetReq.class
+com/yunxin/mp/util/AbstractGenerator.class
